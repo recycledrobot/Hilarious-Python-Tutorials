@@ -1,4 +1,4 @@
-# Hilarious-Python-Tutorials
+# Hilarious Python Tutorials
 
 Welcome to **Hilarious-Python-Tutorials**—the only place where Python code and chaos collide! This repo is filled with text-based tutorials that teach you Python while giving you a good laugh (or a groan). So buckle up, because this ride through Python is about to get... weird.
 
